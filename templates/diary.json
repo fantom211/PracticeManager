@@ -1,0 +1,21 @@
+{
+  "code": "diary",
+  "name": "Дневник практики",
+  "documentType": "diary",
+  "professionalModule": null,
+  "version": 1,
+  "placeholders": [
+    "college_name",
+    "student_full_name",
+    "student_group",
+    "practice_name",
+    "practice_period",
+    "organization_name",
+    "organization_supervisor_full_name",
+    "college_supervisor_full_name",
+    "diary_date",
+    "diary_work",
+    "diary_mark"
+  ],
+  "sha256": "be731884d2e95ff3493c17691a182a5aace3da113284712c4baeedae45cb1314"
+}

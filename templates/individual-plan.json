@@ -1,0 +1,23 @@
+{
+  "code": "individual-plan",
+  "name": "Индивидуальный план",
+  "documentType": "individual-plan",
+  "professionalModule": null,
+  "version": 1,
+  "placeholders": [
+    "college_name",
+    "student_full_name",
+    "student_group",
+    "specialty_code",
+    "specialty_name",
+    "practice_type",
+    "practice_period",
+    "college_supervisor_full_name",
+    "organization_supervisor_full_name",
+    "task_title",
+    "task_description",
+    "task_deadline",
+    "task_status"
+  ],
+  "sha256": "e6cfea37f0572ba7e00c929f5dcdd9ef19d777f1961c99c6c8856f48982bdb50"
+}

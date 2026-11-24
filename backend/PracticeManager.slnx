@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PracticeManager.Api/PracticeManager.Api.csproj" />
+  <Project Path="PracticeManager.Tests/PracticeManager.Tests.csproj" />
+</Solution>

@@ -1,0 +1,27 @@
+# Git and tooling
+.git
+.github
+.opencode
+.playwright-mcp
+artifacts
+docs
+frontend
+tools
+
+# Build output
+**/bin
+**/obj
+**/TestResults
+
+# Secrets and local overrides
+.env
+.env.*
+!.env.example
+**/appsettings.Development*.json
+
+# Runtime data
+backend/PracticeManager.Api/Storage
+
+# Logs and docs
+*.log
+*.md

@@ -1,0 +1,16 @@
+{
+  "code": "characteristic",
+  "name": "Характеристика от организации",
+  "documentType": "characteristic",
+  "professionalModule": null,
+  "version": 1,
+  "placeholders": [
+    "college_name",
+    "student_full_name",
+    "student_group",
+    "practice_period",
+    "characteristic_text",
+    "organization_supervisor_full_name"
+  ],
+  "sha256": "273392ef829f29e6d824f97e2ff162e622af409dc3dcc1fd73e2f492de4eb463"
+}

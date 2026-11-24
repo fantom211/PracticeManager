@@ -1,0 +1,8 @@
+# Normalize text files in the repository.
+* text=auto
+
+# Docker and Compose must keep LF endings on every platform.
+Dockerfile text eol=lf
+*.dockerfile text eol=lf
+docker-compose.yml text eol=lf
+.env.example text eol=lf
