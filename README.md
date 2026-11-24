@@ -224,10 +224,10 @@ python tools/verify_docx.py
 
 ```bash
 # Backend (без Docker; DB-зависимые тесты завершаются early-return,
-# если PostgreSQL недоступен)
+# если PostgreSQL недоступен). .slnx требует SDK 9+, поэтому используем csproj.
 cd backend
-dotnet build PracticeManager.slnx -c Debug
-dotnet test
+dotnet build PracticeManager.Api/PracticeManager.Api.csproj -c Debug
+dotnet test PracticeManager.Tests/PracticeManager.Tests.csproj
 cd ..
 
 # DOCX
